@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	codechunk "github.com/pc-coder/go-code-chunk"
+	codechunk "github.com/pc-coder/tree-code-chunker"
 )
 
 func main() {

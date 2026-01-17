@@ -2,8 +2,8 @@
 
 AST-aware code chunking for semantic search and RAG pipelines in Go.
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/pc-coder/go-code-chunk.svg)](https://pkg.go.dev/github.com/pc-coder/go-code-chunk)
-[![Test Coverage](https://img.shields.io/badge/coverage-90.2%25-brightgreen.svg)](https://github.com/pc-coder/go-code-chunk)
+[![Go Reference](https://pkg.go.dev/badge/github.com/pc-coder/tree-code-chunker.svg)](https://pkg.go.dev/github.com/pc-coder/tree-code-chunker)
+[![Test Coverage](https://img.shields.io/badge/coverage-90.2%25-brightgreen.svg)](https://github.com/pc-coder/tree-code-chunker)
 
 ## Overview
 
@@ -24,7 +24,7 @@ This is a Go port of the TypeScript [code-chunk](https://github.com/supermemorya
 ## Installation
 
 ```bash
-go get github.com/pc-coder/go-code-chunk
+go get github.com/pc-coder/tree-code-chunker
 ```
 
 ## Quick Start
@@ -36,7 +36,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/pc-coder/go-code-chunk"
+    "github.com/pc-coder/tree-code-chunker"
 )
 
 func main() {

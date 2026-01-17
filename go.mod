@@ -1,4 +1,4 @@
-module github.com/pc-coder/go-code-chunk
+module github.com/pc-coder/tree-code-chunker
 
 go 1.23.1
 
